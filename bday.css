@@ -1,0 +1,116 @@
+
+
+
+.note1{
+    background-color:#0D9276;
+    font-family: sans-serif;
+    width: 200px;
+  padding: 15px 100px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 50px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+.note2{
+    background-color:#0D9276;
+    font-family: sans-serif;
+    width: 200px;
+    padding: 15px 100px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 50px;
+    margin: 4px 2px;
+    cursor: pointer;
+    
+}
+.note3{
+    background-color:#0D9276;
+    font-family: sans-serif;
+    width: 200px;
+    padding: 15px 100px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 50px;
+    margin: 4px 2px;
+    cursor: pointer;
+    
+}
+.button1 {background-color: #0D9276;
+  font-family: 'Poppins';font-size: 22px;
+  
+} 
+.note5{
+  color: #FFF6E9;
+  padding: 15px 100px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  background-color: #0D9276;
+}
+hr {
+    position: relative;
+    top: 20x;
+    border: none;
+    height: 5px;
+    background: #BBE2EC;
+    margin-bottom: 5px;
+}
+*{
+    background: #40A2E3;
+    text-align: center;
+
+    
+}
+.note6{
+    color: #FFF6E9;
+  padding: 15px 100px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  background-color: #0D9276;
+    
+}
+#Suit{
+    height: 600px;
+    width: 500px;
+    
+}
+#Suit2{
+    height: 600px;
+    width: 500px;
+    
+}
+#blue{
+    color: rgb(33, 7, 231);
+}
+.genshin{
+    height: 400px;
+    
+}
+.cat{
+    text-align: left;
+    height: 400px;
+
+}
+.cat1{
+    width: 400px;
+    height: 399px;
+}
+.font1{
+    font-family: 'proxima-nova', sans-serif;
+    text-align: center;
+    
+}
+.align{
+    text-align: center;
+}
